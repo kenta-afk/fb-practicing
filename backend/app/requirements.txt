@@ -1,0 +1,2 @@
+sqlalchemy==1.4.31
+mysqlclient==2.1.0
